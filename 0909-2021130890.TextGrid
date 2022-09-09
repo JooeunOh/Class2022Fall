@@ -1,0 +1,106 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 3.9037414965986397 
+tiers? <exists> 
+size = 5 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "1" 
+        xmin = 0 
+        xmax = 3.9037414965986397 
+        intervals: size = 3 
+        intervals [1]:
+            xmin = 0 
+            xmax = 1.2212301888271102 
+            text = "" 
+        intervals [2]:
+            xmin = 1.2212301888271102 
+            xmax = 1.4846751981168873 
+            text = "your" 
+        intervals [3]:
+            xmin = 1.4846751981168873 
+            xmax = 3.9037414965986397 
+            text = "" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "2" 
+        xmin = 0 
+        xmax = 3.9037414965986397 
+        intervals: size = 3 
+        intervals [1]:
+            xmin = 0 
+            xmax = 1.4935553669693518 
+            text = "" 
+        intervals [2]:
+            xmin = 1.4935553669693518 
+            xmax = 1.66523863145033 
+            text = "good" 
+        intervals [3]:
+            xmin = 1.66523863145033 
+            xmax = 3.9037414965986397 
+            text = "" 
+    item [3]:
+        class = "IntervalTier" 
+        name = "3" 
+        xmin = 0 
+        xmax = 3.9037414965986397 
+        intervals: size = 3 
+        intervals [1]:
+            xmin = 0 
+            xmax = 1.7037193631443424 
+            text = "" 
+        intervals [2]:
+            xmin = 1.7037193631443424 
+            xmax = 2.1181272429260143 
+            text = "pants" 
+        intervals [3]:
+            xmin = 2.1181272429260143 
+            xmax = 3.9037414965986397 
+            text = "" 
+    item [4]:
+        class = "IntervalTier" 
+        name = "4" 
+        xmin = 0 
+        xmax = 3.9037414965986397 
+        intervals: size = 5 
+        intervals [1]:
+            xmin = 0 
+            xmax = 1.7037193631443424 
+            text = "" 
+        intervals [2]:
+            xmin = 1.7037193631443424 
+            xmax = 2.1181272429260143 
+            text = "" 
+        intervals [3]:
+            xmin = 2.1181272429260143 
+            xmax = 2.2306093817238963 
+            text = "" 
+        intervals [4]:
+            xmin = 2.2306093817238963 
+            xmax = 2.4407733778988874 
+            text = "look" 
+        intervals [5]:
+            xmin = 2.4407733778988874 
+            xmax = 3.9037414965986397 
+            text = "" 
+    item [5]:
+        class = "IntervalTier" 
+        name = "5" 
+        xmin = 0 
+        xmax = 3.9037414965986397 
+        intervals: size = 3 
+        intervals [1]:
+            xmin = 0 
+            xmax = 2.461493771887971 
+            text = "" 
+        intervals [2]:
+            xmin = 2.461493771887971 
+            xmax = 2.8107804134182373 
+            text = "great" 
+        intervals [3]:
+            xmin = 2.8107804134182373 
+            xmax = 3.9037414965986397 
+            text = "" 
